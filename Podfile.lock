@@ -1,7 +1,7 @@
 PODS:
   - DATAStack (6.0.0)
-  - NSEntityDescription-SYNCPrimaryKey (1.2.6):
-    - NSString-HYPNetworking (~> 1.0.5)
+  - NSEntityDescription-SYNCPrimaryKey (1.2.7):
+    - NSString-HYPNetworking (~> 1.0.6)
   - NSString-HYPNetworking (1.0.6)
 
 DEPENDENCIES:
@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   DATAStack: 4cdf8e1b50f6d80c7d70f75e7a2c29545a008860
-  NSEntityDescription-SYNCPrimaryKey: 9449ab486b46ee949421d17d11de8cd7d4c31904
+  NSEntityDescription-SYNCPrimaryKey: c7942c62eb64691576451e1dc180e2067f0a5af8
   NSString-HYPNetworking: 97eb879c5c43663dde06f89e01e8e1551a3f5bb7
 
 PODFILE CHECKSUM: ec7f52c491c3012d5b49842fa0bd838794d2a6f8
