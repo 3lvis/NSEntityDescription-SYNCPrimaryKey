@@ -2,5 +2,5 @@ use_frameworks!
 
 target 'Tests' do
   pod 'NSEntityDescription-SYNCPrimaryKey', path: "."
-  pod 'DATAStack'
+  pod 'DATAStack', '~> 6'
 end
