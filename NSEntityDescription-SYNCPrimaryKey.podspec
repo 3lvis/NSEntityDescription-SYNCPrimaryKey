@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   s.name             = "NSEntityDescription-SYNCPrimaryKey"
   s.summary          = "Support for primary keys in Core Data"
-  s.version          = "1.2.7"
-  s.homepage         = "https://github.com/hyperoslo/NSEntityDescription-SYNCPrimaryKey"
+  s.version          = "1.2.8"
+  s.homepage         = "https://github.com/SyncDB/NSEntityDescription-SYNCPrimaryKey"
   s.license          = 'MIT'
-  s.author           = { "Hyper Interaktiv AS" => "ios@hyper.no" }
-  s.source           = { :git => "https://github.com/hyperoslo/NSEntityDescription-SYNCPrimaryKey.git", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/hyperoslo'
+  s.author           = { "SyncDB" => "syncdb.contact@gmail.com" }
+  s.source           = { :git => "https://github.com/SyncDB/NSEntityDescription-SYNCPrimaryKey.git", :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/Sync_DB'
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.9'
   s.watchos.deployment_target = '2.0'
